@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  max-width: 300px;
+
+  .cat-image {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+
+  p {
+    font-size: 14px;
+    color: #666;
+  }
+}
